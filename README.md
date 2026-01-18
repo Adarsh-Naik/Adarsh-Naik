@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/adarsh-ashok-naik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-ashok-naik" height="30" width="40" /></a>
 <a href="https://kaggle.com/adarshashoknaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adarshashoknaik" height="30" width="40" /></a>
 <a href="https://twitter.com/@ADARSH___NAIK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ADARSH___NAIK" height="30" width="40" /></a>
-<a href="https://leetcode.com/adarsh_naik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt=" adarsh_naik" height="30" width="40" /></a>
+<a href="https://leetcode.com/adarshanaik922002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt=" adarsh_naik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
